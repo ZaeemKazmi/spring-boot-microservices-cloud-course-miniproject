@@ -1,0 +1,6 @@
+.DS_Store
+target/
+mobile-app-ws/
+PhotoAppApiConfigServer/
+*.log
+.metadata/
